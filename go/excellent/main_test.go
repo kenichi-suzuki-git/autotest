@@ -2,7 +2,7 @@ package main
 
 import "testing"
 
-// コメント修正
+// コメント修正1
 func TestEvenOrOdd(t *testing.T) {
 	result := EvenOrOdd(10)
 	if result != "even" {
