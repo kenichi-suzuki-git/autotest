@@ -1,6 +1,6 @@
 package main
 
-// EvenOrOdd determines if a number is even or odd
+// コメント変更
 func EvenOrOdd(number int) string {
 	if number%2 == 0 {
 		return "even"
